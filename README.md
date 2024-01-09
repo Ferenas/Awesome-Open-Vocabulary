@@ -39,7 +39,7 @@
   </p>
 <br />
 
-This fucking repo is used for recording, tracking, and benchmarking several recent open vocabulary methods to supplement our [survey](https://arxiv.org/abs/2306.15880).  
+This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods to supplement our [survey](https://arxiv.org/abs/2306.15880).  
 If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/jianzongwu/Awesome-Open-Vocabulary/pulls).
 We will add the missing papers to this repo as soon as possible.
 
@@ -195,6 +195,8 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`diff.`|[Diffusion Models for Zero-Shot Open-Vocabulary Segmentation](https://arxiv.org/abs/2306.09316)|[Project](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)|
 |2023|ICCV|`diff.`|[Diffumask: Synthesizing images with pixel-level annotations for semantic segmentation using diffusion models](https://arxiv.org/abs/2303.11681)|[Project](https://weijiawu.github.io/DiffusionMask/)|
 |2023|ICCV|`diff.`|[Guiding Text-to-Image Diffusion Model Towards Grounded Generation](https://arxiv.org/abs/2301.05221)|[Project](https://lipurple.github.io/Grounded_Diffusion/)|
+|2023|NeurIPS|`cap.`, `w/o ps.`|[Uncovering Prototypical Knowledge for Weakly
+Open-Vocabulary Semantic Segmentation, NeurIPS 2023](https://arxiv.org/abs/2310.19001)|[Code](https://github.com/Ferenas/PGSeg)|
 
 #### Instance Segmentation
 
